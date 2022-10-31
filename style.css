@@ -1,0 +1,36 @@
+* { 
+    box-sizing: border-box;
+} 
+
+body { 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column; 
+    background-color: lightslategrey; 
+    color: #fff;
+    line-height: 1.6em;
+
+} 
+
+header { 
+    padding: 40px;
+  text-align:left;
+    background-color: #333; 
+    white-space: normal; 
+    float: left; 
+    display: block;
+
+
+} 
+
+.prof { 
+    width: 80px; 
+    height: 80px; 
+    border: 2px solid black;
+    display: block; 
+    
+
+
+    
+}
