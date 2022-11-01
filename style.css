@@ -33,4 +33,16 @@ header {
 
 
     
+} 
+
+.box-2 { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: left; 
+    padding: 10em;
+    border: #333;
+    border-radius: 10em;
+    width: 400px;
+    height: 400px; 
 }
