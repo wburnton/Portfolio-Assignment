@@ -1,8 +1,8 @@
-# Portfolio-Assignment# <Your-Project-Title>
+<Portfolio-Assignment>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
 
 I have created a portfolio to display information about me, my work, and ways to contact for future employers. 
 
@@ -12,11 +12,6 @@ I have created a portfolio to display information about me, my work, and ways to
 
 -I learned that CSS can be a little difficult! Doing assignments in class is one thing, but building a webpage from scratch is a whole other process. I realized I still have much to learn, but building this webpage helped me learn a lot.  
 
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 
 
