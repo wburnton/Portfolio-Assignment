@@ -12,7 +12,7 @@ h2 {
     font-size: 35px;
 
 }
-
+/* styling for entire webpage;fonts flex and background colors*/
 body { 
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 20;
@@ -24,6 +24,7 @@ body {
 
 } 
 
+/* Name, and nav links styling*/
 header { 
     padding: 40px;
   text-align:left;
@@ -40,7 +41,7 @@ footer {
     background-color: #333;
 }
 
-
+/* paragraph in about me section*/ 
 p { 
     background-color: rgb(77, 53, 50);
     text-align: center; 
@@ -48,6 +49,7 @@ p {
     margin-right: 50px; 
     border-radius: 10px;
 }
+/*image in header*/ 
 .prof { 
     width: 15%; 
     height: 15%; 
@@ -56,11 +58,11 @@ p {
     
 
     } 
-
+/* needed to move this section header left for some reason */
 .work { 
     margin-left: 0%;
 }
-
+/* first image in work, needs to be bigger */ 
 .box-1 { 
     display: flex;
     flex-wrap: wrap;
@@ -74,7 +76,7 @@ p {
     background-color: antiquewhite;
 
 }
-
+/* rest of the images in Work section*/
 .box-2 { 
     display: flex;
     flex-wrap: wrap;
@@ -89,11 +91,6 @@ p {
 }
 
 
-
-.box-2:hover { 
-    border: whitesmoke;
-
-}
 
 
 @media screen and (max-width: 992px) {
