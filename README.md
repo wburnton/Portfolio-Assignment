@@ -21,7 +21,7 @@ I have created a portfolio to display information about me, my work, and ways to
 
 
 ## Usage
-Go to // enter link here // 
+Go to https://wburnton.github.io/Portfolio-Assignment/  
 
 
 
