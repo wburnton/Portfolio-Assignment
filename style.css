@@ -4,6 +4,8 @@
 
 h1 { 
     font-size: 55px;
+    display: inline;
+    align-content: center;
 }
 
 h2 { 
@@ -28,7 +30,8 @@ header {
     background-color: #333; 
     white-space: normal; 
     float: left; 
-    display: block;
+    display: block; 
+    
 
 
 }  
@@ -37,20 +40,25 @@ footer {
     background-color: #333;
 }
 
-.prof { 
-    width: 15%; 
-    height: 15%; 
-    border: 10px solid black;
-    display: block; 
-    align-self: center;
-
-    } 
 
 p { 
     background-color: rgb(77, 53, 50);
     text-align: center; 
     margin-left: 50px; 
-    margin-right: 50px;
+    margin-right: 50px; 
+    border-radius: 10px;
+}
+.prof { 
+    width: 15%; 
+    height: 15%; 
+    border: 10px solid black;
+    display: block; 
+    
+
+    } 
+
+.work { 
+    margin-left: 0%;
 }
 
 .box-1 { 
@@ -60,7 +68,7 @@ p {
     text-align: left; 
     padding: 40px;
     border: #333;
-    border-radius: 100px;
+    border-radius: 50px;
     width: 55%;
     height: 55%; 
     background-color: antiquewhite;
@@ -91,9 +99,9 @@ p {
   transition: all 0.5s ease-in-out;
 }
 
-.box-2:hover,
-.code-card:hover .card-header {
-  box-shadow: inset 0px 0px 8px var(--heliotrope), 0 0 15px var(--heliotrope);
+.box-2:hover { 
+    border: whitesmoke;
+    
 }
 
 
